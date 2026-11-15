@@ -1,135 +1,203 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-<url>
-  <loc>http://zabolekar-daria.eu/</loc>
-  <lastmod>2013-04-21T22:21:40+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>http://zabolekar-daria.eu/index.html</loc>
-  <lastmod>2013-04-21T22:21:40+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://zabolekar-daria.eu/dantist-varne.html</loc>
-  <lastmod>2013-04-21T22:21:39+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://zabolekar-daria.eu/dentist.html</loc>
-  <lastmod>2013-04-21T22:21:40+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://zabolekar-daria.eu/zahnarzt.html</loc>
-  <lastmod>2013-04-21T22:21:39+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://zabolekar-daria.eu/dentiste.html</loc>
-  <lastmod>2013-04-21T22:21:40+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://zabolekar-daria.eu/informacia.html</loc>
-  <lastmod>2013-04-21T22:21:40+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://zabolekar-daria.eu/polezno.html</loc>
-  <lastmod>2013-04-21T22:21:39+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://zabolekar-daria.eu/kontakti.html</loc>
-  <lastmod>2013-04-21T22:21:40+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://zabolekar-daria.eu/horoshii-stomatologi.html</loc>
-  <lastmod>2013-04-21T22:21:38+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://zabolekar-daria.eu/ru_polezno.html</loc>
-  <lastmod>2013-04-21T22:21:38+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://zabolekar-daria.eu/adresa-telefonov.html</loc>
-  <lastmod>2013-04-21T22:21:39+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://zabolekar-daria.eu/toothache.html</loc>
-  <lastmod>2013-04-21T22:21:39+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://zabolekar-daria.eu/usefully-tips.html</loc>
-  <lastmod>2013-04-21T22:21:39+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://zabolekar-daria.eu/phone_address.html</loc>
-  <lastmod>2013-04-21T22:21:39+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://zabolekar-daria.eu/dental.html</loc>
-  <lastmod>2013-04-21T22:21:41+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://zabolekar-daria.eu/nutzlich-tipps.html</loc>
-  <lastmod>2013-04-21T22:21:40+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://zabolekar-daria.eu/kontakte.html</loc>
-  <lastmod>2013-04-21T22:21:40+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://zabolekar-daria.eu/dentaire.html</loc>
-  <lastmod>2013-04-21T22:21:41+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://zabolekar-daria.eu/conseils.html</loc>
-  <lastmod>2013-04-21T22:21:41+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://zabolekar-daria.eu/adresse.html</loc>
-  <lastmod>2013-04-21T22:21:41+00:00</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.64</priority>
-</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://zabolekar-daria.eu/</loc>
+    <lastmod>2026-11-15T13:16:10+00:00</lastmod>
+    <priority>1.0000</priority>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://zabolekar-daria.eu/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://zabolekar-daria.eu/dantist-varne.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://zabolekar-daria.eu/dentist.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://zabolekar-daria.eu/zahnarzt.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://zabolekar-daria.eu/dentiste.html" />
+  </url>
+  <url>
+    <loc>https://zabolekar-daria.eu/dantist-varne.html</loc>
+    <lastmod>2026-11-15T13:16:10+00:00</lastmod>
+    <priority>0.8000</priority>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://zabolekar-daria.eu/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://zabolekar-daria.eu/dantist-varne.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://zabolekar-daria.eu/dentist.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://zabolekar-daria.eu/zahnarzt.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://zabolekar-daria.eu/dentiste.html" />
+  </url>
+  <url>
+    <loc>https://zabolekar-daria.eu/dentist.html</loc>
+    <lastmod>2026-11-15T13:16:10+00:00</lastmod>
+    <priority>0.8000</priority>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://zabolekar-daria.eu/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://zabolekar-daria.eu/dantist-varne.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://zabolekar-daria.eu/dentist.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://zabolekar-daria.eu/zahnarzt.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://zabolekar-daria.eu/dentiste.html" />
+  </url>
+  <url>
+    <loc>https://zabolekar-daria.eu/zahnarzt.html</loc>
+    <lastmod>2026-11-15T13:16:10+00:00</lastmod>
+    <priority>0.8000</priority>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://zabolekar-daria.eu/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://zabolekar-daria.eu/dantist-varne.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://zabolekar-daria.eu/dentist.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://zabolekar-daria.eu/zahnarzt.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://zabolekar-daria.eu/dentiste.html" />
+  </url>
+  <url>
+    <loc>https://zabolekar-daria.eu/dentiste.html</loc>
+    <lastmod>2026-11-15T13:16:10+00:00</lastmod>
+    <priority>0.8000</priority>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://zabolekar-daria.eu/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://zabolekar-daria.eu/dantist-varne.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://zabolekar-daria.eu/dentist.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://zabolekar-daria.eu/zahnarzt.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://zabolekar-daria.eu/dentiste.html" />
+  </url>
+  <url>
+    <loc>https://zabolekar-daria.eu/informacia.html</loc>
+    <lastmod>2026-11-15T13:16:10+00:00</lastmod>
+    <priority>0.8000</priority>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://zabolekar-daria.eu/informacia.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://zabolekar-daria.eu/horoshii-stomatologi.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://zabolekar-daria.eu/toothache.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://zabolekar-daria.eu/dental.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://zabolekar-daria.eu/dentaire.html" />
+  </url>
+  <url>
+    <loc>https://zabolekar-daria.eu/horoshii-stomatologi.html</loc>
+    <lastmod>2026-11-15T13:16:10+00:00</lastmod>
+    <priority>0.6400</priority>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://zabolekar-daria.eu/informacia.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://zabolekar-daria.eu/horoshii-stomatologi.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://zabolekar-daria.eu/toothache.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://zabolekar-daria.eu/dental.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://zabolekar-daria.eu/dentaire.html" />
+  </url>
+  <url>
+    <loc>https://zabolekar-daria.eu/toothache.html</loc>
+    <lastmod>2026-11-15T13:16:10+00:00</lastmod>
+    <priority>0.6400</priority>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://zabolekar-daria.eu/informacia.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://zabolekar-daria.eu/horoshii-stomatologi.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://zabolekar-daria.eu/toothache.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://zabolekar-daria.eu/dental.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://zabolekar-daria.eu/dentaire.html" />
+  </url>
+  <url>
+    <loc>https://zabolekar-daria.eu/dental.html</loc>
+    <lastmod>2026-11-15T13:16:10+00:00</lastmod>
+    <priority>0.6400</priority>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://zabolekar-daria.eu/informacia.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://zabolekar-daria.eu/horoshii-stomatologi.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://zabolekar-daria.eu/toothache.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://zabolekar-daria.eu/dental.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://zabolekar-daria.eu/dentaire.html" />
+  </url>
+  <url>
+    <loc>https://zabolekar-daria.eu/dentaire.html</loc>
+    <lastmod>2026-11-15T13:16:10+00:00</lastmod>
+    <priority>0.6400</priority>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://zabolekar-daria.eu/informacia.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://zabolekar-daria.eu/horoshii-stomatologi.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://zabolekar-daria.eu/toothache.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://zabolekar-daria.eu/dental.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://zabolekar-daria.eu/dentaire.html" />
+  </url>
+  <url>
+    <loc>https://zabolekar-daria.eu/polezno.html</loc>
+    <lastmod>2026-11-15T13:16:10+00:00</lastmod>
+    <priority>0.8000</priority>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://zabolekar-daria.eu/polezno.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://zabolekar-daria.eu/ru_polezno.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://zabolekar-daria.eu/usefully-tips.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://zabolekar-daria.eu/nutzlich-tipps.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://zabolekar-daria.eu/conseils.html" />
+  </url>
+  <url>
+    <loc>https://zabolekar-daria.eu/ru_polezno.html</loc>
+    <lastmod>2026-11-15T13:16:10+00:00</lastmod>
+    <priority>0.6400</priority>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://zabolekar-daria.eu/polezno.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://zabolekar-daria.eu/ru_polezno.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://zabolekar-daria.eu/usefully-tips.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://zabolekar-daria.eu/nutzlich-tipps.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://zabolekar-daria.eu/conseils.html" />
+  </url>
+  <url>
+    <loc>https://zabolekar-daria.eu/usefully-tips.html</loc>
+    <lastmod>2026-11-15T13:16:10+00:00</lastmod>
+    <priority>0.6400</priority>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://zabolekar-daria.eu/polezno.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://zabolekar-daria.eu/ru_polezno.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://zabolekar-daria.eu/usefully-tips.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://zabolekar-daria.eu/nutzlich-tipps.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://zabolekar-daria.eu/conseils.html" />
+  </url>
+  <url>
+    <loc>https://zabolekar-daria.eu/nutzlich-tipps.html</loc>
+    <lastmod>2026-11-15T13:16:10+00:00</lastmod>
+    <priority>0.6400</priority>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://zabolekar-daria.eu/polezno.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://zabolekar-daria.eu/ru_polezno.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://zabolekar-daria.eu/usefully-tips.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://zabolekar-daria.eu/nutzlich-tipps.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://zabolekar-daria.eu/conseils.html" />
+  </url>
+  <url>
+    <loc>https://zabolekar-daria.eu/conseils.html</loc>
+    <lastmod>2026-11-15T13:16:10+00:00</lastmod>
+    <priority>0.6400</priority>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://zabolekar-daria.eu/polezno.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://zabolekar-daria.eu/ru_polezno.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://zabolekar-daria.eu/usefully-tips.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://zabolekar-daria.eu/nutzlich-tipps.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://zabolekar-daria.eu/conseils.html" />
+  </url>
+  <url>
+    <loc>https://zabolekar-daria.eu/kontakti.html</loc>
+    <lastmod>2026-11-15T13:16:10+00:00</lastmod>
+    <priority>0.8000</priority>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://zabolekar-daria.eu/kontakti.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://zabolekar-daria.eu/adresa-telefonov.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://zabolekar-daria.eu/phone_address.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://zabolekar-daria.eu/kontakte.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://zabolekar-daria.eu/adresse.html" />
+  </url>
+  <url>
+    <loc>https://zabolekar-daria.eu/adresa-telefonov.html</loc>
+    <lastmod>2026-11-15T13:16:10+00:00</lastmod>
+    <priority>0.6400</priority>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://zabolekar-daria.eu/kontakti.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://zabolekar-daria.eu/adresa-telefonov.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://zabolekar-daria.eu/phone_address.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://zabolekar-daria.eu/kontakte.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://zabolekar-daria.eu/adresse.html" />
+  </url>
+  <url>
+    <loc>https://zabolekar-daria.eu/phone_address.html</loc>
+    <lastmod>2026-11-15T13:16:10+00:00</lastmod>
+    <priority>0.6400</priority>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://zabolekar-daria.eu/kontakti.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://zabolekar-daria.eu/adresa-telefonov.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://zabolekar-daria.eu/phone_address.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://zabolekar-daria.eu/kontakte.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://zabolekar-daria.eu/adresse.html" />
+  </url>
+  <url>
+    <loc>https://zabolekar-daria.eu/kontakte.html</loc>
+    <lastmod>2026-11-15T13:16:10+00:00</lastmod>
+    <priority>0.6400</priority>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://zabolekar-daria.eu/kontakti.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://zabolekar-daria.eu/adresa-telefonov.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://zabolekar-daria.eu/phone_address.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://zabolekar-daria.eu/kontakte.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://zabolekar-daria.eu/adresse.html" />
+  </url>
+  <url>
+    <loc>https://zabolekar-daria.eu/adresse.html</loc>
+    <lastmod>2026-11-15T13:16:10+00:00</lastmod>
+    <priority>0.6400</priority>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://zabolekar-daria.eu/kontakti.html" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://zabolekar-daria.eu/adresa-telefonov.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://zabolekar-daria.eu/phone_address.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://zabolekar-daria.eu/kontakte.html" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://zabolekar-daria.eu/adresse.html" />
+  </url>
 </urlset>
